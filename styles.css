@@ -1,0 +1,36 @@
+* {
+    margin: 0
+}
+
+#header_section {
+background-color: #ffe396;
+width: 100vw;
+height: 20vh;
+display:flex;
+flex-direction: column;
+align-items: center;
+justify-content: space-evenly;
+}
+#projects_section {
+    padding: 25px 0px;
+background-color: #f0f0f0;
+width: 100vw;
+height: 75vh;
+display:flex;
+flex-direction: column;
+align-items: center;
+justify-content: space-evenly;
+}
+
+.project {
+    margin:10px;
+    width: 300px;
+    height: 300px;
+    background-color: #5270de;
+    color:#ffffff;
+    display:flex;
+align-items: center;
+justify-content: center;
+font-size: 29px;
+text-decoration: none;
+}
